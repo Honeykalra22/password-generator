@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+body{
+    background-color: #212121;
+    color: #fff;
+}
+
+.full_div{
+    height: 15rem;
+    align-items: center;
+    margin: auto 10px;
+    width: 70%;
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.whiteBoard{
+    background-color: black;
+    color: wheat;
+    border-radius: 10px;
+    margin-left: auto;
+    padding: 5px;
+}
+
+.button{
+    background-color: blue;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    
+}
+*/
